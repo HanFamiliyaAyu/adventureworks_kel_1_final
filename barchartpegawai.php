@@ -82,7 +82,7 @@ Highcharts.chart('container', {
         data: [
 		<?php
 		$conn = mysqli_connect("localhost","root","","dwo");
-		$sql = "select nama,total_penjualan from pegawai";
+		$sql = "select nama,total_penjualan from pegawai ORDER BY total_penjualan desc";
 		$query = mysqli_query($conn,$sql) or die (mysqli_error());
 		
 		while ($temp = mysqli_fetch_array($query))
