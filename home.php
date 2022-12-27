@@ -29,7 +29,6 @@
 
         <!-- Sidebar -->
         <?php include "sidebar.php";?>
-        
         <!-- End of Sidebar -->
 
         <!-- Content Wrapper -->
@@ -42,58 +41,50 @@
 				
                 <h2><br/>W e l c o m e !</h2>
                 <p>Welcome to Dashboard Adventure Works Kelompok 1</p>
-                
-                <div class="container-fluid px-4">
-                <div class="row">
-
-<!-- Earnings (Monthly) Card Example -->
-<div class="col-xl-4 col-md-6 mb-4">
+                <center>
+			<div class="row">
+			
+			  <div class="col-xl-6 col-md-6 mb-4">
               <div class="card border-left-info shadow h-100 py-2">
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                     <a  href="barchartpegawai.php"> <div class="text-xs font-weight-bold text-info text-uppercase mb-1"><h4>Penjualan Pegawai Tertinggi</br>$ 162.324,4146</h4></div></a>
-                      <div class="row no-gutters align-items-center">
+                     <a  href="barchartpegawai.php"> <div class="text-xs font-weight-bold text-info text-uppercase mb-1"><h4>Penjualan Pegawai Tertinggi</br>$ 162.324,4146</h4></div>
+                    </a>  <div class="row no-gutters align-items-center">
                         <div class="col-auto">
                         
                     </div>
                     </div>
-                    <div class="col-auto">
-                      <i class="fas fa-people-arrows fa-3x text-black-300"></i>
-                    </div>
-                  </div>
+                      <center><i class="fas fa-people-arrows fa-5x text-black-300"></i>
+                    </center></div>
                 </div>
               </div>
             </div>
 			</div>
-
-<!-- Earnings (Monthly) Card Example -->
-<div class="col-xl-4 col-md-6 mb-4">
+			
+            <div class="col-xl-6 col-md-6 mb-4">
               <div class="card border-left-warning shadow h-100 py-2">
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
                      <a  href="linechartpembelian.php"> <div class="text-xs font-weight-bold text-warning text-uppercase mb-1"><h4>Total Penjualan</br>$ 447.072,346</h4></div>
-                      </a>
+           </a>
                     </div>
-                    <div class="col-auto">
-                      <i class="fas fa-dollar-sign fa-4x text-black-300"></i>
+                      <i class="fas fa-dollar-sign fa-5x text-black-300"></i>
                     </div>
-                  </div>
                 </div>
               </div>
             </div>
-                        
-                        
-<!-- Earnings (Monthly) Card Example -->
-<div class="col-xl-4 col-md-6 mb-4">
+			
+            <!-- Earnings (Monthly) Card Example -->
+			
+            <div class="col-xl-6 col-md-6 mb-4">
               <div class="card border-left-info shadow h-100 py-2">
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
                      <a  href="data_produk.php"> <div class="text-xs font-weight-bold text-info text-uppercase mb-1"><h4>Total Produk</br> 211</h4></div>
-                     </a>
-                     <div class="row no-gutters align-items-center">
+                      </a><div class="row no-gutters align-items-center">
                         <div class="col-auto">
                         
                         </div>
@@ -102,35 +93,31 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-auto">
-                      <i class="fas fa-box-open fa-4x text-black-300"></i>
-                    </div>
+                      <i class="fas fa-box-open fa-5x text-black-300"></i>
                   </div>
                 </div>
               </div>
             </div>
-
-                  
-<!-- Earnings (Monthly) Card Example -->
-<div class="col-xl-4 col-md-6 mb-4">
+			
+			
+			 <!-- Earnings (Monthly) Card Example -->
+             <div class="col-xl-6 col-md-6 mb-4">
               <div class="card border-left-success shadow h-100 py-2">
                 <div class="card-body">
                   <div class="row no-gutters align-items-right">
                     <div class="col mr-3">
-                        <a  href="data_vendor.php"> <div class="text-xs font-weight-bold text-success text-uppercase mb-1"><h4>Total Vendor</br>104</h4></div>
-                        </a>
+                        <a  href="data_vendor.php"> 
+						<div class="text-xs font-weight-bold text-success text-uppercase mb-2"><h4>Total Vendor</br>104</h4></div>
+                   </a>
                     </div>
-                    <div class="col-auto">
-                      <i class="fas fa-handshake fa-4x text-black-300"></i>
+                      <i class="fas fa-handshake fa-5x text-black-300"></i>
                     </div>
-                  </div>
                 </div>
               </div>
             </div>
-
-</div>
-</div>       
 			
+			</div>
+			</center>
 
             <!-- End of Main Content -->
 
