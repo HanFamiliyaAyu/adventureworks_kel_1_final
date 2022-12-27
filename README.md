@@ -1,12 +1,12 @@
-Final Project Pengembangan Data Warehouse dan Dashboard WHSakila 2022
-Kelompok 1 - Paralel C
-Program Studi Sistem Informasi
-Fakultas Ilmu Komputer
-UPN "Veteran" Jawa Timur
+Final Project Pengembangan Data Warehouse dan Dashboard WHSakila 2022 <br>
+Kelompok 1 - Paralel C <br>
+Program Studi Sistem Informasi <br>
+Fakultas Ilmu Komputer <br>
+UPN "Veteran" Jawa Timur <br>
 
-Nama Ketua:
-Muhammad Adam Rachman (20082010086)
-Nama Anggota:
+Nama Ketua: <br>
+Muhammad Adam Rachman (20082010086) <br>
+Nama Anggota: <br>
 1. Faradewi Kirana (20082010008)
 2. Han Familiya Ayu P (20082010009)
 3. Verika Bayu Setiya N (20082010032)
